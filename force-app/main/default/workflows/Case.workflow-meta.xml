@@ -10,4 +10,15 @@
         <protected>false</protected>
         <reevaluateOnChange>false</reevaluateOnChange>
     </fieldUpdates>
+    <rules>
+        <fullName>WFtest4</fullName>
+        <active>false</active>
+        <criteriaItems>
+            <field>Case.CaseNumber</field>
+            <operation>equals</operation>
+            <value>123</value>
+        </criteriaItems>
+        <description>testing by committing without Workflow</description>
+        <triggerType>onCreateOnly</triggerType>
+    </rules>
 </Workflow>
