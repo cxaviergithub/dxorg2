@@ -4,5 +4,6 @@
     <label>PSG 1 Test</label>
     <permissionSets>permission_set_1</permissionSets>
     <permissionSets>permission_set_2</permissionSets>
+    <permissionSets>permission_set_3</permissionSets>
     <status>Updated</status>
 </PermissionSetGroup>
