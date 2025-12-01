@@ -6889,7 +6889,7 @@
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>AccessOrchestrationObjects</name>
     </userPermissions>
     <userPermissions>
